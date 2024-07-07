@@ -1,0 +1,35 @@
+.bio_cont {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  background-color: #333;
+  padding: 1rem;
+}
+.bio_txt {
+  height: fit-content;
+  padding: 2rem;
+  background-color: azure;
+  opacity: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2rem 2rem 1rem;
+}
+.bio_tit {
+  text-shadow: 0.1rem 0.2rem #808080;
+}
+.team_abt {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.img_container {
+  width: 50vw;
+  padding: 2rem;
+}
+.bio_pfp {
+  width: 100%;
+  height: 100%;
+  box-shadow: 2rem 2rem 1rem;
+}

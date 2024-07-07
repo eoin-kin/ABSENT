@@ -1,0 +1,20 @@
+.contacts_container {
+  background-color: #292b2c;
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+.link {
+  color: aliceblue;
+  text-decoration: none;
+  padding: 1rem;
+}
+.contact {
+  position: absolute;
+  left: 0;
+  padding: 1rem;
+  padding-top: 2rem;
+  padding-left: 3rem;
+  font-weight: bolder;
+}

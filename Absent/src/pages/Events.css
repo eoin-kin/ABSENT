@@ -1,0 +1,7 @@
+.Listings {
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #333;
+}
